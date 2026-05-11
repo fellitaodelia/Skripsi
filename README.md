@@ -1,8 +1,8 @@
 ## 📑 Informasi Pribadi
 - Nama : Fellita Odelia Wibowo
 - NPM : 140610220032
-- Program Studi : S1 Statistika
-- Fakultas : Matematika dan Ilmu Pengetahuan Alam (FMIPA)
+- Program Studi : Program Studi S1 Statistika
+- Fakultas : Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)
 - Universitas : Universitas Padjadjaran
 
 ## 🔖 Judul Skripsi
