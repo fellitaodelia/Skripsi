@@ -11,6 +11,7 @@ Analisis Fenomena Bediding di Kota Surabaya melalui Pemodelan Suhu Udara Minimum
 ## 🗂️ File dalam *Repository*
 - `Data Pemodelan.csv` : Data untuk pemodelan
 - `Data Peramalan.csv` : Data untuk peramalan
+- `Data Perbandingan Nilai Peramalan Model dan Aktual.csv` : Data untuk perbandingan nilai peramalan model dan aktual
 - `README.md` : Deskripsi *repository*
 - `Syntax Pemodelan Variabel Eksogen.ipynb` : *Notebook* berisi *syntax* untuk pemodelan variabel eksogen
 - `Syntax Pemodelan Variabel Target.ipynb` : *Notebook* berisi *syntax* untuk pemodelan variabel target
