@@ -1,9 +1,9 @@
 ## 📑 Informasi Pribadi
-- Nama : Fellita Odelia Wibowo
-- NPM : 140610220032
-- Program Studi : Program Studi S1 Statistika
-- Fakultas : Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)
-- Universitas : Universitas Padjadjaran
+- Nama: Fellita Odelia Wibowo
+- NPM: 140610220032
+- Program Studi: Program Studi S1 Statistika
+- Fakultas: Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)
+- Universitas: Universitas Padjadjaran
 
 ## 🔖 Judul Skripsi
 Analisis Fenomena Bediding di Kota Surabaya melalui Pemodelan Suhu Udara Minimum Berbasis XGBoost-SHAP dengan Variabel Eksogen Durasi Penyinaran Matahari
